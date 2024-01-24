@@ -1,0 +1,42 @@
+.display-1 {
+  font-weight: bold;
+  text-align: center;
+  /* margin-top: 30%; */
+  /* margin-bottom: 30%; */
+}
+.pageTitle {
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: x-large;
+}
+
+.blockquote {
+  text-align: center;
+  font-weight: bold;
+}
+
+.blockquote-footer {
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+}
+
+th {
+  text-align: center;
+}
+
+.pDescription {
+  text-align: left;
+  font-size: 2ch;
+}
+
+.pHead {
+  text-align: left;
+  font-weight: bold;
+  font-size: 3ch;
+}
